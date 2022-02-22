@@ -40,11 +40,10 @@ I would love to work at a company where I can continue to both improve, learn an
 - OOP, TDD, MVC
 - Agile methodologies
 - Version Control (Git/Github)
-- Heroku 
 - Jest, RSpec, Mocha/Chai
-- Deploying on Heroku/AWS servers
+- Deploying on Heroku
 - HTML, CSS (Bootstrap, Bulma)
-- Configuring APIs (Twilio/Guardian/Slack/Google Maps)
+- Configuring APIs (Twilio/Guardian)
 - Majority of projects were paired/team. Some individual work with strong focus on processes and TDD.
 
 ## Skills
