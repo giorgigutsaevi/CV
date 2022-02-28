@@ -1,5 +1,5 @@
 # CV
-[Projects](#latest-projects) | [Technical Experience](#technical-experience) | [Skills](#skills) | [Education](#education) | [Professional Experience](#professional-experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/giorgigutsaev/)
+[Projects](#projects) | [Technical Experience](#technical-experience) | [Skills](#skills) | [Education](#education) | [Professional Experience](#professional-experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/giorgigutsaev/)
 
 ## Giorgi Gutsaev
 
@@ -10,24 +10,27 @@ I studied at Makers Academy from November 2021 to February 2022, where I learnt 
 I have a BSc in Hospitality & Business Management, and a background in marketing & events, experience which made me a highly effective team-player and a communicator, that positively translates into impactful problem solving. During my time at Makers, I got enchanted by coding, and I am excited to bring my passion, enthusiasm to a new role, where I can both improve, learn and diversify my skillset. 
 
 
-## Latest Projects
+## Projects
 
-- **[Wormz Game](https://github.com/giorgigutsaevi/wormz)**
-  * 2-week final project at Makers. Our team set out to create a nostalgic 2D shooting game. The project is created using JavaScript, p5, Matter.js, Express, Node, HTML, CSS. Full description in Readme.
-- **[Acebook](https://github.com/giorgigutsaevi/acebook-ruby-junkies)**
-  * This is a facebook-clone application made by team Ruby Junkies for our weeks 8-9 Group Project. Full description in Readme.
-- **[Tech Tests](https://github.com/giorgigutsaevi/bank-tech-test)**
-  * A selection of tech-tests that demonstrate strong TDD process and understanding of core principles of JS
-- **[Makers BnB](https://github.com/giorgigutsaevi/Makers-BnB)**
-  * Using a combination of front-end JS, and back end Ruby/Sinatra, I created a simple version of AirBnB. Full description in Readme.
-- **[JS Notes App](https://github.com/giorgigutsaevi/JS-notes-app)**
-  * Using the MVC architecture, I created a simple notes app using vanilla JS with a mock server using Express. Description in Readme.
-- **[Chitter](https://github.com/giorgigutsaevi/chitter-challenge)**
-  * A Twitter Clone built with Ruby & Sinatra, where users can sign up, sign in and share peeps (tweets). Full description in Readme.
-- **[News App](https://github.com/giorgigutsaevi/news-summary-challenge)**
-  * I challenged myself to build a news-summary web app, using Guardian's API. I chose to build it twice, once using vanilla front-end JS, and once using JQuery, to compare the processes.
-- **[Online Banking App](https://github.com/giorgigutsaevi/E-Banking-UI)**
-  * I challenged myself to build an app that resembles modern online banking web app, using vanilla JS, CSS and HTML. 
+This is a selection of projects that I have worked on. To see more,  [please see my Github](https://github.com/giorgigutsaevi?tab=repositoriess).
+
+| Project | Description |
+| -- | :--: |
+| Wormz <br> A two-week final project at Makers. We as a team, decided to create a nostalgic 2D browser game. The aim of the project was to learn something completely new and really push ourselves, given a time constraint of 14 days. <br><br>
+<br><br> **Tech Stack** <br> Node.js, JavaScript, p5.js, Matter.js, Express, HTML, CSS <br><br> **Testing Frameworks** <br> Mocha <br> Chai <br>| **[Github Repo](https://github.com/giorgigutsaevi/wormz)** <br> [Live on Heroku](https://wormz.herokuapp.com/) <br><br> ![](./gifs/wormz.gif) |
+
+|The aim of the project was to create a facebook clone. The app is made by team Ruby Junkies. <br> Users can sign up, log in, sign out, create posts, upload images, befriend users, and create their own unique profiles. <br><br> **Tech Stack** <br> Ruby on Rails, JavaScript, OAuth, <br>Devise, CSS <br> <br><br> **Testing Frameworks** <br> Rspec| **[Acebook Repo](https://github.com/giorgigutsaevi/acebook-ruby-junkies)** <br> [Acebook - Live](http://gem-junkies.herokuapp.com/) <br><br> ![](./gifs/acebook.gif) |
+
+| News App <br>  I challenged myself to build a news-summary web app, using Guardian's API. API returns 10 latest news headlines as a JSON, which then gets processed and rendered out <br><br> **Tech Stack** <br> JavaScript, Axios, HTML, CSS  <br><br> **Testing Frameworks** <br> Jest <br> | **[News App Repo](https://github.com/giorgigutsaevi/news-summary-challenge)** <br><br> ![](./gifs//news.gif) |
+
+| Chitter <br>  A Twitter Clone, where users can sign up, sign in and share their peeps, peeps are tweets essentially. <br><br> **Tech Stack** <br> Ruby, Sinatra, PostgreSQL, CSS <br><br> **Testing Frameworks** <br> RSpec <br> | **[Chitter App](https://github.com/giorgigutsaevi/rps-challenge)** <br><br> ![](./gifs//chitter.gif) |
+
+| Banking <br> a command-line Ruby application allowing you to create a bank account, make deposits, withdraw money and print statements. <br> The aim of this project was to focus fully on OOD and the TDD process with writing clean, DRY code. <br><br> **Tech Stack** <br> Ruby <br><br> **Testing Frameworks** <br> RSpec <br> | **[Bank Repo](https://github.com/giorgigutsaevi/bank-tech-test)** <br><br> ![](./gifs/Bank.gif) |
+
+| Rock, Paper, Scissors <br> A Ruby/Sinatra web game. <br> The player can enter their name and play 'Rock, Paper, Scissors' against the computer. The game tracks the game score so the player can see how successful they are. <br><br> **Tech Stack** <br> Ruby, Sinatra, CSS, HTML <br><br> **Testing Frameworks** <br> RSpec <br> | **[Rock, Paper, Scissors Repo](https://github.com/giorgigutsaevi/rps-challenge)** <br><br> ![](./gifs//RPS.gif) |
+
+| Online Banking App <br> I challenged myself to build an app that resembles modern online banking web app, using vanilla JS, CSS and HTML. <br><br> **Tech Stack** <br> JavaScript CSS, HTML | **[Online Banking Repo](https://github.com/giorgigutsaevi/E-Banking-UI)** |
+
 
 ## Technical Experience
 
