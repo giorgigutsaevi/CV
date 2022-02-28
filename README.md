@@ -45,6 +45,16 @@ This is a selection of projects that I have worked on. To see more,  [please see
 
 ## Skills
 
+#### Initiative
+
+- I am a huge advocate for effective communication. During my time at VTB Bank Georgia, I suggested to introduce a chat-based communication (Microsoft Teams) to avoid mass email traffic within the organisation, which eventually increased day-to-day productivity. Also, frequently during Pair programming at Makers, I would be vocal about our current or future objectives, hence defusing the tension. 
+- I am a naturally curious person, constantly hungry to learn more about the world, research novelties and new technologies in the tech industry. I frequently listen to podcasts about a variety of topics, including tech, science, and history. 
+- I am currently learning React, Redux & MongoDB with the overall aim to master the MERN stack. 
+
+#### Problem Solving
+
+- I enjoy solving problems with a systematic and divide-and-conquer approach, which stems from my previous professional roles. When tackling any problem, especially code-related, I like to deconstruct the problem, divide it into smaller chunks and try to write it down on a piece paper. This helps me visualise what needs to be done. For example, during the Acebook challenge, another pair asked me if I could help to solve an issue they were having with allowing users to see how many people liked a certain post. Even though the project was primarily written in Ruby on Rails, I guided them to use JavaScript and several CSS magic tricks to solve the issue. 
+
 #### Professional
 
 - Managed 45+ B2B events internationally across various industries
@@ -55,12 +65,6 @@ This is a selection of projects that I have worked on. To see more,  [please see
  towards the bank by 19%)
 - Managed Social Media Channels and inter-organisational communication
 - Implemented five nation-wide sponsorship projects
-
-#### Initiative
-
-- I am a huge advocate for effective communication! During my time at VTB Bank Georgia, I suggested to introduce a chat-based communication (Microsoft Teams) to avoid mass email traffic within the organisation, which eventually increased day-to-day productivity. 
-- I am a naturally curious person, constantly hungry to learn more about the world, research novelties and new technologies in the tech industry, listen to podcasts about a variety of topics and travel whenever I get the chance. 
-- I am currently learning React, Redux & MongoDB with the aim to master the MERN stack. 
 
 
 ## Education
@@ -87,7 +91,7 @@ This is a selection of projects that I have worked on. To see more,  [please see
 - Oversaw the creation of Georgia.Travel - a multimedia tourism platform.
 - Worked closely with product team to scope and brief suggestions on platform improvements/suggestions.
 
-**VTB Bank** (Mar 2019 - Aug 2019)  
+**VTB Bank Georgia** (Jan 2016 - June 2018)  
 *Marketing Coordinator*
 - Managed five nation-wide sponsorship projects
 - Implemented promotional marketing campaigns for various banking products
