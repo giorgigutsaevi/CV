@@ -17,7 +17,7 @@ This is a selection of projects that I have worked on. To see more,  [please see
 | Project | Description |
 | -- | :--: |
 | Wormz <br> A two-week final project at Makers. We as a team, decided to create a nostalgic 2D browser game. The aim of the project was to learn something completely new and really push ourselves, given a time constraint of 14 days. <br><br>
-<br><br> **Tech Stack** <br> Node.js, JavaScript, p5.js, Matter.js, Express, HTML, CSS <br><br> **Testing Frameworks** <br> Mocha <br> Chai <br>| **[Github Repo](https://github.com/giorgigutsaevi/wormz)** <br> [Live on Heroku](https://wormz.herokuapp.com/) <br><br> ![](./gifs/wormz.gif) |
+ **Tech Stack** <br> Node.js, JavaScript, p5.js <br> Matter.js, Express <br><br> **Testing Frameworks** <br> Mocha <br>Chai<br>| **[Wormz Repo](https://github.com/giorgigutsaevi/wormz)** <br> [Play Wormz on Heroku](https://wormz.herokuapp.com/) <br><br> ![](./gifs/wormz.gif) |
 
 |The aim of the project was to create a facebook clone. The app is made by team Ruby Junkies. <br> Users can sign up, log in, sign out, create posts, upload images, befriend users, and create their own unique profiles. <br><br> **Tech Stack** <br> Ruby on Rails, JavaScript, OAuth, <br>Devise, CSS <br> <br><br> **Testing Frameworks** <br> Rspec| **[Acebook Repo](https://github.com/giorgigutsaevi/acebook-ruby-junkies)** <br> [Acebook - Live](http://gem-junkies.herokuapp.com/) <br><br> ![](./gifs/acebook.gif) |
 
