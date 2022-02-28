@@ -3,11 +3,12 @@
 
 ## Giorgi Gutsaev
 
-I am an aspiring Junior Developer, who is always hungry to expand his programming skills and conquer new realms of technology! Being an immensely curious individual, I like to go into solving problems with my eyes fully open, and translate my innate passion for this captivating field into clean, tested and reusable code. 
+I am an aspiring Junior Developer, who is always hungry to expand my programming skills and conquer new realms of technology! Being an immensely curious individual, I like to go into solving problems with my eyes fully open, and translate my innate passion for this captivating industry into a clean, tested and reusable code. 
 
-I studied at Makers Academy from November 2021 to February 2022, getting insights of the core principles of the most popular programming languages such as Ruby and JavaScript, and really solidifying best practices that are used in the industry. 
+I studied at Makers Academy from November 2021 to February 2022, where I learnt the core principles of creating full-Stack web applications using JavaScript and Ruby. Also, my experience at Makers has taught me to always follow best working practices and effectively collaborate with others. I have documented my learning journey @Makers, so if you are interested what my life was like during those 12-weeks of bootcamp, please feel free to click [here](https://github.com/giorgigutsaevi/Makers-Learning-Portfolio). 
 
-I would love to work at a company where I can continue to both improve, learn and diversify my skillset! 
+I have a BSc in Hospitality & Business Management, and a background in marketing & events, experience which made me a highly effective team-player and a communicator, that positively translates into impactful problem solving. During my time at Makers, I got enchanted by coding, and I am excited to bring my passion, enthusiasm to a new role, where I can both improve, learn and diversify my skillset. 
+
 
 ## Latest Projects
 
