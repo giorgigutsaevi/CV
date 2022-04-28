@@ -82,7 +82,7 @@ In my former role as an events coordinator at Active Communications Internationa
 
 ## Professional Experience
 
-**Active Communications International** (Jan 2019 - Feb 2021)    
+**Active Communications International** (Jan 2019 - Apr 2020)    
 *Marketing & Event Operations Coordinator*  
 - Managed 45+ B2B events internationnally per year across various industries.
 - Sourced, appointed, liaised, and managed venues, event contractors and suppliers.
@@ -97,7 +97,7 @@ In my former role as an events coordinator at Active Communications Internationa
 - Oversaw the creation of Georgia.Travel - a multimedia tourism platform.
 - Worked closely with product team to scope and brief suggestions on platform improvements/suggestions.
 
-**VTB Bank Georgia** (Jan 2016 - June 2018)  
+**VTB Bank Georgia** (Sep 2016 - June 2018)  
 *Marketing Coordinator*
 - Managed five nation-wide sponsorship projects
 - Implemented promotional marketing campaigns for various banking products
